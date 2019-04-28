@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/accumulate.dir/main.cpp.o  -o accumulate 
