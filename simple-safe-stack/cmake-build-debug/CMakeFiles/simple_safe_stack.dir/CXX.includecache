@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kerraiosc/CLionProjects/simple-safe-stack/main.cpp
+iostream
+-
+exception
+-
+memory
+-
+mutex
+-
+stack
+-
+

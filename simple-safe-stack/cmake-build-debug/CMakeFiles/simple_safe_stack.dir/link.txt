@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/simple_safe_stack.dir/main.cpp.o  -o simple_safe_stack 
