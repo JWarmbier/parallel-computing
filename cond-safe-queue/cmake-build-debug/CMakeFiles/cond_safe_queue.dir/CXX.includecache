@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kerraiosc/git_workspace/parallel-computing/cond-safe-queue/main.cpp
+iostream
+-
+queue
+-
+memory
+-
+mutex
+-
+condition_variable
+-
+
